@@ -856,9 +856,8 @@ documentation_content = f"""
 - Generated business insights across multiple dimensions
 
 ### 5. Data Visualization
-- Created 5 comprehensive visualizations
+- Created 3 comprehensive visualizations
 - All charts include proper titles, labels, and legends
-- Used professional color schemes and formatting
 
 ### 6. Results Export
 - Saved results in CSV, Parquet, and JSON formats
